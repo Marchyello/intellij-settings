@@ -1,0 +1,70 @@
+<keymap version="1" name="GNOME copy Proper Redo" parent="Default for GNOME">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
+  <action id="Git.Stage.Refresh" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Run" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowBookmarks" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+</keymap>

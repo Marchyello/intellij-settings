@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>
