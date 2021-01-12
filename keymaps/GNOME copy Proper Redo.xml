@@ -61,6 +61,9 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="Svn.RefreshWorkingCopies" />
   <action id="ToggleBookmark" />
   <action id="ToggleLineBreakpoint">
