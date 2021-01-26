@@ -1,22 +1,7 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
-  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
-  </action>
   <action id="EditorSelectWord" />
-  <action id="QuickImplementations" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift ctrl i" />
-  </action>
-  <action id="RunInspection" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
-  </action>
+  <action id="SmartSelect" />
 </keymap>
