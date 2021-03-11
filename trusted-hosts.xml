@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Hosts.Settings">
+    <option name="TRUSTED_HOSTS">
+      <list>
+        <option value="git.cps.lv/mcity" />
+      </list>
+    </option>
+  </component>
+</application>
