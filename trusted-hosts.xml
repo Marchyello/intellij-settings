@@ -3,6 +3,7 @@
     <option name="TRUSTED_HOSTS">
       <list>
         <option value="git.cps.lv/mcity" />
+        <option value="git.cps.lv/siauliai" />
       </list>
     </option>
   </component>
