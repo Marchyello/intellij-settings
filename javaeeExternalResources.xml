@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.1/extResources/679746f9_dbchangelog-4.1.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog-ext" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.1/extResources/99f6323_dbchangelog-ext.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/pro" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.1/extResources/532f3f13_liquibase-pro-4.1.xsd" />
+  </component>
+</application>
