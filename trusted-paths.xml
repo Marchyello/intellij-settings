@@ -6,6 +6,7 @@
         <option value="$USER_HOME$/mtx-modules" />
         <option value="$USER_HOME$/mcity" />
         <option value="$USER_HOME$/rs-dbs" />
+        <option value="$USER_HOME$/other/cucumber-jvm" />
       </list>
     </option>
   </component>
