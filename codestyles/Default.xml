@@ -5,6 +5,7 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   </codeStyleSettings>
