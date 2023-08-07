@@ -44,6 +44,7 @@
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="ResetIdeScaleAction" />
   <action id="RestoreDefaultLayout" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
@@ -78,5 +79,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="ZoomInIdeAction" />
+  <action id="ZoomOutIdeAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
