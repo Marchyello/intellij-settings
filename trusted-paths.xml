@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/cities2/merchants" value="true" />
+        <entry key="$USER_HOME$/cities2/pos-processing-client" value="true" />
+        <entry key="$USER_HOME$/cities2/username-authenticator" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/cities2" />
+      </list>
+    </option>
+  </component>
+</application>
