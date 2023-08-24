@@ -1,13 +1,70 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="3" l="1692877773955" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1692877840906" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="7" l="1692877986013" />
+    </e>
     <e n="EditorCopy">
-      <i c="1" l="1692873904853" />
+      <i c="4" l="1692877799571" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1692877840164" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="2" l="1692877840637" />
+    </e>
+    <e n="EditorDown">
+      <i c="5" l="1692877851084" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1692877843484" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1692877766949" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="7" l="1692877987388" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="3" l="1692877839683" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1692877843715" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="7" l="1692877751421" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="8" l="1692877828915" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1692877828073" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1692877739694" />
     </e>
     <e n="Find">
-      <i c="1" l="1692873905220" />
+      <i c="2" l="1692877799931" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="7" l="1692877972375" />
     </e>
     <e n="OpenFile">
       <i c="2" l="1692873880529" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1692877887692" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1692877987658" />
+    </e>
+    <e n="Switcher">
+      <i c="8" l="1692877978139" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1692870258289" />
