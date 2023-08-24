@@ -1,10 +1,19 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="EditorCopy">
+      <i c="1" l="1692873904853" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1692873905220" />
+    </e>
     <e n="OpenFile">
       <i c="2" l="1692873880529" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1692870258289" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1692873906016" />
     </e>
   </component>
 </application>
