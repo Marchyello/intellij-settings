@@ -21417,6 +21417,17 @@
         <option name="name" value="11" />
         <option name="snapshotHash" value="faa00d3d66aa69661d4f0dad087abe53e7af9fa1f068f9df6dc4dc8c99a691b4" />
       </entry>
+      <entry>
+        <option name="aliases">
+          <list>
+            <option value="1.8.0_382" />
+            <option value="1.8" />
+          </list>
+        </option>
+        <option name="hash" value="61573a80d9c298840576e112348806ea425af20c" />
+        <option name="name" value="1.8" />
+        <option name="snapshotHash" value="36c302c24a94434f46070af5f99c9c3d01c0105bb40c888b4d1697959e20e398" />
+      </entry>
     </option>
   </component>
 </application>

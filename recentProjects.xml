@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/cities2/merchants">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="26PycsXV71BvdBGoOFcSeMx1KYU">
-              <option name="activationTimestamp" value="1692877913393" />
+              <option name="activationTimestamp" value="1692881049636" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766877373" />
@@ -20,7 +20,7 @@
         <entry key="$USER_HOME$/cities2/pos-processing-client">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2QpkbZyOWJnswrcXcwwxYMGdekA">
-              <option name="activationTimestamp" value="1692876687209" />
+              <option name="activationTimestamp" value="1692880716832" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766877373" />
@@ -35,7 +35,7 @@
         <entry key="$USER_HOME$/cities2/username-authenticator">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
-              <option name="activationTimestamp" value="1692876688498" />
+              <option name="activationTimestamp" value="1692880755340" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766877373" />
@@ -44,6 +44,134 @@
               </option>
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1692873889968" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/notifications">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-notifications – public.graphql [cities2-notifications]" projectWorkspaceId="2F2b25DeJL9DRb3b0XwYhrj2xbT">
+              <option name="activationTimestamp" value="1692880500499" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880492580" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/announcements">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-announcements – Service.scala [cities2-announcements]" projectWorkspaceId="2FBLApeNXRkmHsZMcVB8u0OaOS1">
+              <option name="activationTimestamp" value="1692880518674" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880510916" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/messages">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-messages – FileUploadResolver.scala [cities2-messages]" projectWorkspaceId="2Cnj08EFlXbGvh7tBVLmBEjiIrg">
+              <option name="activationTimestamp" value="1692880548529" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880536965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/common">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-common – SQLSyntaxSupportFeature.scala [sbt: org.scalikejdbc:scalikejdbc-interpolation_2.13:4.0.0:jar]" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
+              <option name="activationTimestamp" value="1692880565305" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880557994" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/loyalty">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-loyalty – UtilizationsResolver.scala [cities2-loyalty]" projectWorkspaceId="2Co1TQ9aKJOSjzThXEU3vxVjGot">
+              <option name="activationTimestamp" value="1692880609576" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880603252" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/phone-number-authenticator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-phone-number-authenticator – RegisterAuthenticationInputExtensions.scala [cities2-phone-number-authenticator]" projectWorkspaceId="2BcuJlKi55cbRf0CEA0H1oChH4B">
+              <option name="activationTimestamp" value="1692880633390" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880628623" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/tags">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-tags – Service.scala [cities2-tags]" projectWorkspaceId="276cPrzWLWO0SWrIHHOWlAlsZTE">
+              <option name="activationTimestamp" value="1692880649823" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880645808" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/surveys">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-surveys – Service.scala [cities2-surveys]" projectWorkspaceId="2J8SRSsLhkZRUXoIZbJWM1Erc1t">
+              <option name="activationTimestamp" value="1692880706492" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766877373" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692880658457" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
