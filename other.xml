@@ -7,7 +7,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "FindSplitterProportion": "0.33022714",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
     "appcds.runOnSecondStart": "IC-232.9559.62-5156715c076c17a3236ebb4d78f4de882e3c4482ab4bc23bc0c6d34eba492314",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -34,6 +34,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/martins/cities2/submissions/build.sbt",
       "/home/martins/cities2/clients/build.sbt",
       "/home/martins/cities2/merchants/build.sbt",
       "/home/martins/mtx-frameworks/libmcity/pom.xml",

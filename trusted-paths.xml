@@ -11,6 +11,7 @@
         <entry key="$USER_HOME$/cities2/notifications" value="true" />
         <entry key="$USER_HOME$/cities2/phone-number-authenticator" value="true" />
         <entry key="$USER_HOME$/cities2/pos-processing-client" value="true" />
+        <entry key="$USER_HOME$/cities2/submissions" value="true" />
         <entry key="$USER_HOME$/cities2/surveys" value="true" />
         <entry key="$USER_HOME$/cities2/tags" value="true" />
         <entry key="$USER_HOME$/cities2/username-authenticator" value="true" />
