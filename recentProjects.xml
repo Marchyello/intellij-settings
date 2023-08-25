@@ -146,22 +146,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/cities2/common">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cities2-common – build.sbt [cities2-common]" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
-              <option name="activationTimestamp" value="1692973687334" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-232.9559.62" />
-              <option name="buildTimestamp" value="1692766877373" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1692887268607" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/mtx-frameworks/libmcity">
           <value>
             <RecentProjectMetaInfo frameTitle="libmcity – demo_schema.graphql [demo]" projectWorkspaceId="2BW9OfvI7NH6m636NR0TVayDZ3I">
@@ -228,8 +212,8 @@
         </entry>
         <entry key="$USER_HOME$/cities2/users">
           <value>
-            <RecentProjectMetaInfo frameTitle="cities2-users – authentication-context.graphql [cities2-users]" opened="true" projectWorkspaceId="26ZBGJXNgLU378LdYpOouW5Diz8">
-              <option name="activationTimestamp" value="1692974054259" />
+            <RecentProjectMetaInfo frameTitle="cities2-users – AuthenticatedClient.scala [sbt: com.mtx:cities2-common_2.13:0.1.72:jar]" projectWorkspaceId="26ZBGJXNgLU378LdYpOouW5Diz8">
+              <option name="activationTimestamp" value="1692974286215" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766882902" />
@@ -242,8 +226,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/cities2/common">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-common – ClientPlatform.scala [cities2-common]" opened="true" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
+              <option name="activationTimestamp" value="1692975525105" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766882902" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1692974311298" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/users" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/common" />
   </component>
 </application>
