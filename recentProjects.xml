@@ -165,7 +165,7 @@
         <entry key="$USER_HOME$/cities2/common">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-common – AuthenticatedClient.scala [cities2-common]" opened="true" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
-              <option name="activationTimestamp" value="1692956574954" />
+              <option name="activationTimestamp" value="1692958501573" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766877373" />
@@ -213,7 +213,7 @@
         <entry key="$USER_HOME$/cities2/clients">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-clients – 20230821200659_improved_platform_validation.sql [cities2-clients]" opened="true" projectWorkspaceId="271TGRoHHxEXNHXQyffcynFf6U1">
-              <option name="activationTimestamp" value="1692957472402" />
+              <option name="activationTimestamp" value="1692958309568" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766903256" />
@@ -228,6 +228,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/clients" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/common" />
   </component>
 </application>
