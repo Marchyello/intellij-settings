@@ -7,15 +7,16 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "FindSplitterProportion": "0.33022714",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
     "appcds.runOnSecondStart": "IC-232.9559.62-5156715c076c17a3236ebb4d78f4de882e3c4482ab4bc23bc0c6d34eba492314",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-232.9559.62",
     "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
     "experimental.ui.first.promotion.localdate": "2023-08-24",
     "experimental.ui.on.first.startup": "false",
-    "file.gist.reindex.count": "603",
+    "file.gist.reindex.count": "613",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "14.0",
     "fontSizeToResetEditor": "14.0",
@@ -33,17 +34,20 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/martins/cities2/clients/build.sbt",
+      "/home/martins/cities2/merchants/build.sbt",
+      "/home/martins/mtx-frameworks/libmcity/pom.xml",
+      "/home/martins/cities2/common/build.sbt",
+      "/home/martins/cities2/users/build.sbt",
       "/home/martins/cities2/surveys/build.sbt",
       "/home/martins/cities2/tags/build.sbt",
       "/home/martins/cities2/phone-number-authenticator/build.sbt",
       "/home/martins/cities2/loyalty/build.sbt",
-      "/home/martins/cities2/common/build.sbt",
       "/home/martins/cities2/messages/build.sbt",
       "/home/martins/cities2/announcements/build.sbt",
       "/home/martins/cities2/notifications/build.sbt",
       "/home/martins/cities2/username-authenticator/build.sbt",
-      "/home/martins/cities2/pos-processing-client/build.sbt",
-      "/home/martins/cities2/merchants/build.sbt"
+      "/home/martins/cities2/pos-processing-client/build.sbt"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
@@ -53,4 +57,9 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="cities2-merchants-history" project-path="$USER_HOME$/cities2/merchants" last-access-time="1692892713465" />
+    </command-history-files>
+  </component>
 </application>
