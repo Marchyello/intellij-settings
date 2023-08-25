@@ -165,7 +165,7 @@
         <entry key="$USER_HOME$/cities2/common">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-common – AuthenticatedClient.scala [cities2-common]" opened="true" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
-              <option name="activationTimestamp" value="1692959688166" />
+              <option name="activationTimestamp" value="1692969831951" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766877373" />
@@ -213,7 +213,7 @@
         <entry key="$USER_HOME$/cities2/clients">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-clients – 20230821200659_improved_platform_validation.sql [cities2-clients]" opened="true" projectWorkspaceId="271TGRoHHxEXNHXQyffcynFf6U1">
-              <option name="activationTimestamp" value="1692958309568" />
+              <option name="activationTimestamp" value="1692969230205" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766903256" />
@@ -228,14 +228,15 @@
         </entry>
         <entry key="$USER_HOME$/cities2/submissions">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2FBOnZymmKnwHCfcGBVqCg5DFDK">
-              <option name="activationTimestamp" value="1692965450028" />
+            <RecentProjectMetaInfo frameTitle="cities2-submissions – SubmissionType.scala [cities2-submissions]" projectWorkspaceId="2FBOnZymmKnwHCfcGBVqCg5DFDK">
+              <option name="activationTimestamp" value="1692965459377" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766903256" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="1" />
               </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1692959689333" />
             </RecentProjectMetaInfo>
@@ -243,6 +244,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/submissions" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/common" />
   </component>
 </application>

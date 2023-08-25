@@ -4,7 +4,7 @@
       <i c="13" l="1692892313480" />
     </e>
     <e n="$Undo">
-      <i c="44" l="1692893299893" />
+      <i c="46" l="1692969989079" />
     </e>
     <e n="ActivateProblemsViewToolWindow">
       <i c="4" l="1692892004608" />
@@ -15,6 +15,9 @@
     <e n="CloseProject">
       <i c="9" l="1692892521351" />
     </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1692969348380" />
+    </e>
     <e n="CommentByLineComment">
       <i c="1" l="1692959700718" />
     </e>
@@ -22,13 +25,13 @@
       <i c="3" l="1692881068496" />
     </e>
     <e n="EditorBackSpace">
-      <i c="199" l="1692960066667" />
+      <i c="201" l="1692970027894" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="57" l="1692958709775" />
+      <i c="61" l="1692970033695" />
     </e>
     <e n="EditorCopy">
-      <i c="35" l="1692960036001" />
+      <i c="37" l="1692970053222" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1692893283687" />
@@ -37,28 +40,28 @@
       <i c="18" l="1692960040665" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="38" l="1692958467749" />
+      <i c="40" l="1692970027711" />
     </e>
     <e n="EditorDown">
-      <i c="70" l="1692960048754" />
+      <i c="79" l="1692970039991" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="7" l="1692880897752" />
+      <i c="8" l="1692970043304" />
     </e>
     <e n="EditorEnter">
-      <i c="79" l="1692960091731" />
+      <i c="85" l="1692970044679" />
     </e>
     <e n="EditorEscape">
       <i c="3" l="1692958712085" />
     </e>
     <e n="EditorLeft">
-      <i c="52" l="1692959730637" />
+      <i c="58" l="1692969985352" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="32" l="1692887370547" />
     </e>
     <e n="EditorLineEnd">
-      <i c="96" l="1692960064074" />
+      <i c="102" l="1692970037055" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="10" l="1692959731092" />
@@ -67,25 +70,25 @@
       <i c="22" l="1692960039970" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="25" l="1692960035690" />
+      <i c="26" l="1692970042086" />
     </e>
     <e n="EditorNextWord">
       <i c="37" l="1692959727043" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="22" l="1692888520209" />
+      <i c="24" l="1692969985694" />
     </e>
     <e n="EditorPaste">
-      <i c="66" l="1692960038498" />
+      <i c="68" l="1692970054614" />
     </e>
     <e n="EditorPreviousWord">
       <i c="46" l="1692888562537" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="32" l="1692958734966" />
+      <i c="33" l="1692970048182" />
     </e>
     <e n="EditorRight">
-      <i c="15" l="1692892991619" />
+      <i c="16" l="1692970044073" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1692882084472" />
@@ -103,10 +106,10 @@
       <i c="1" l="1692888440100" />
     </e>
     <e n="EditorUp">
-      <i c="72" l="1692960063378" />
+      <i c="79" l="1692970000248" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="9" l="1692959736684" />
+      <i c="12" l="1692970042790" />
     </e>
     <e n="ExternalSystem.ProjectRefreshAction">
       <i c="2" l="1692887694394" />
@@ -145,7 +148,7 @@
       <i c="11" l="1692892734650" />
     </e>
     <e n="SaveAll">
-      <i c="60" l="1692960135562" />
+      <i c="62" l="1692970075326" />
     </e>
     <e n="Scala.RunConsole">
       <i c="2" l="1692892591825" />
