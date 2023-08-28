@@ -31,7 +31,7 @@
       <i c="71" l="1692972242402" />
     </e>
     <e n="EditorCopy">
-      <i c="39" l="1693226578290" />
+      <i c="40" l="1693226631940" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1692893283687" />
@@ -121,7 +121,7 @@
       <i c="1" l="1692887617885" />
     </e>
     <e n="Find">
-      <i c="10" l="1693222593167" />
+      <i c="11" l="1693226625637" />
     </e>
     <e n="FindInPath">
       <i c="23" l="1692972631226" />
@@ -202,7 +202,7 @@
       <i c="1" l="1692889071221" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="4" l="1692889114064" />
+      <i c="5" l="1693226621629" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="13" l="1692892487719" />
