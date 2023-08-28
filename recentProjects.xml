@@ -213,7 +213,7 @@
         <entry key="$USER_HOME$/cities2/clients">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-clients – 20230726183528_pos_terminal_client_platform.sql [cities2-clients]" opened="true" projectWorkspaceId="271TGRoHHxEXNHXQyffcynFf6U1">
-              <option name="activationTimestamp" value="1693234286275" />
+              <option name="activationTimestamp" value="1693235903790" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766871319" />
@@ -228,8 +228,8 @@
         </entry>
         <entry key="$USER_HOME$/cities2/username-authenticator">
           <value>
-            <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – public.graphql [cities2-username-authenticator]" opened="true" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
-              <option name="activationTimestamp" value="1693234286336" />
+            <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – local-dev.conf [cities2-username-authenticator]" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
+              <option name="activationTimestamp" value="1693235900941" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766871319" />
@@ -244,6 +244,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/username-authenticator" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/clients" />
   </component>
 </application>

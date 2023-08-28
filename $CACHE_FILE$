@@ -21413,6 +21413,13 @@
         <option name="lastDownloadDate" value="2023-08-28T13:54:42.237008909+03:00[Europe/Riga]" />
         <option name="lastDownloadSize" value="33725800" />
       </entry>
+      <entry>
+        <option name="indexId" value="ddb3f94a6cfd2007f495503dd5dd2ea94f1b34870d0261ca0907360ca3407d03#java version &quot;11.0.20&quot;" />
+        <option name="indexKind" value="jdk" />
+        <option name="lastDeliveredChunkUniqueId" value="jdk-11.0.20-corretto-11.0.20-9775afef8583-7d992221" />
+        <option name="lastDownloadDate" value="2023-08-28T17:51:34.512445413+03:00[Europe/Riga]" />
+        <option name="lastDownloadSize" value="37793816" />
+      </entry>
     </option>
   </component>
   <component name="shared-index-jdk-hash">
