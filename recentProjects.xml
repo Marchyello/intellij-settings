@@ -194,22 +194,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/cities2/merchants">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cities2-merchants – MerchantExtensions.scala [cities2-merchants]" projectWorkspaceId="26PycsXV71BvdBGoOFcSeMx1KYU">
-              <option name="activationTimestamp" value="1692973704109" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-232.9559.62" />
-              <option name="buildTimestamp" value="1692766903256" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="2500" y="233" width="1390" height="970" extendedState="6" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1692972526954" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/cities2/users">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-users – AuthenticatedClient.scala [sbt: com.mtx:cities2-common_2.13:0.1.72:jar]" projectWorkspaceId="26ZBGJXNgLU378LdYpOouW5Diz8">
@@ -229,7 +213,7 @@
         <entry key="$USER_HOME$/cities2/common">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-common – ClientPlatform.scala [cities2-common]" opened="true" projectWorkspaceId="2BWaKROGHh4BR0mGdCYLnnnSvVH">
-              <option name="activationTimestamp" value="1692975525105" />
+              <option name="activationTimestamp" value="1693220073164" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766882902" />
@@ -242,8 +226,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/cities2/merchants">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-merchants – MerchantExtensions.scala [cities2-merchants]" opened="true" projectWorkspaceId="26PycsXV71BvdBGoOFcSeMx1KYU">
+              <option name="activationTimestamp" value="1693220668005" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766871319" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2500" y="233" width="1390" height="970" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1693220073774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/common" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/merchants" />
   </component>
 </application>

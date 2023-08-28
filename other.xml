@@ -34,6 +34,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/martins/cities2/merchants/local.sbt",
       "/home/martins/cities2/users/build.sbt",
       "/home/martins/cities2/merchants/build.sbt",
       "/home/martins/cities2/submissions/build.sbt",
