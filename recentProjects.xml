@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/cities2/pos-processing-client">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cities2-pos-processing-client – public.graphql [cities2-pos-processing-client]" projectWorkspaceId="2QpkbZyOWJnswrcXcwwxYMGdekA">
-              <option name="activationTimestamp" value="1692895950600" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-232.9559.62" />
-              <option name="buildTimestamp" value="1692766877373" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1692873364699" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/cities2/username-authenticator">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – public.graphql [cities2-username-authenticator]" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
@@ -229,7 +213,7 @@
         <entry key="$USER_HOME$/cities2/notifications">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-notifications – public.graphql [cities2-notifications]" opened="true" projectWorkspaceId="2F2b25DeJL9DRb3b0XwYhrj2xbT">
-              <option name="activationTimestamp" value="1693221457279" />
+              <option name="activationTimestamp" value="1693222547328" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.9559.62" />
               <option name="buildTimestamp" value="1692766871319" />
@@ -242,8 +226,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/cities2/pos-processing-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-pos-processing-client – public.graphql [cities2-pos-processing-client]" opened="true" projectWorkspaceId="2QpkbZyOWJnswrcXcwwxYMGdekA">
+              <option name="activationTimestamp" value="1693222585389" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766871319" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1693222549276" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/merchants" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/pos-processing-client" />
   </component>
 </application>
