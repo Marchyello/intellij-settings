@@ -34,6 +34,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/martins/cities2/notifications/build.sbt",
       "/home/martins/cities2/merchants/local.sbt",
       "/home/martins/cities2/users/build.sbt",
       "/home/martins/cities2/merchants/build.sbt",
@@ -47,7 +48,6 @@
       "/home/martins/cities2/loyalty/build.sbt",
       "/home/martins/cities2/messages/build.sbt",
       "/home/martins/cities2/announcements/build.sbt",
-      "/home/martins/cities2/notifications/build.sbt",
       "/home/martins/cities2/username-authenticator/build.sbt",
       "/home/martins/cities2/pos-processing-client/build.sbt"
     ],
