@@ -16,7 +16,7 @@
     "defaultJdkConfigured": "true",
     "experimental.ui.first.promotion.localdate": "2023-08-24",
     "experimental.ui.on.first.startup": "false",
-    "file.gist.reindex.count": "614",
+    "file.gist.reindex.count": "615",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "14.0",
     "fontSizeToResetEditor": "14.0",
@@ -29,17 +29,17 @@
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Solarized Dark (4lex4)",
     "registry.to.advanced.settings.migration.build": "IC-232.9559.62",
-    "scala.last.updated": "1692974517917",
+    "scala.last.updated": "1693304229110",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/martins/cities2/merchants/build.sbt",
       "/home/martins/cities2/username-authenticator/build.sbt",
       "/home/martins/cities2/users/build.sbt",
       "/home/martins/cities2/pos-processing-client/build.sbt",
       "/home/martins/cities2/notifications/build.sbt",
       "/home/martins/cities2/merchants/local.sbt",
-      "/home/martins/cities2/merchants/build.sbt",
       "/home/martins/cities2/submissions/build.sbt",
       "/home/martins/cities2/clients/build.sbt",
       "/home/martins/mtx-frameworks/libmcity/pom.xml",

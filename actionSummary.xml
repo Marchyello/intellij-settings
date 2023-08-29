@@ -25,82 +25,85 @@
       <i c="4" l="1692974150886" />
     </e>
     <e n="EditorBackSpace">
-      <i c="223" l="1693222632361" />
+      <i c="278" l="1693306349435" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="71" l="1692972242402" />
+      <i c="115" l="1693306363535" />
     </e>
     <e n="EditorCopy">
-      <i c="42" l="1693234314583" />
+      <i c="60" l="1693306187680" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1692893283687" />
     </e>
     <e n="EditorDelete">
-      <i c="22" l="1692973587018" />
+      <i c="24" l="1693305200867" />
     </e>
     <e n="EditorDeleteToWordEnd">
       <i c="2" l="1692972318273" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="43" l="1693222636803" />
+      <i c="57" l="1693306208649" />
     </e>
     <e n="EditorDown">
-      <i c="84" l="1692972267827" />
+      <i c="136" l="1693306358594" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="11" l="1692970136629" />
     </e>
     <e n="EditorEnter">
-      <i c="89" l="1693222635511" />
+      <i c="129" l="1693306370923" />
     </e>
     <e n="EditorEscape">
       <i c="3" l="1692958712085" />
     </e>
     <e n="EditorLeft">
-      <i c="61" l="1692974081544" />
+      <i c="98" l="1693306241586" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="34" l="1692972911874" />
+      <i c="38" l="1693306074666" />
     </e>
     <e n="EditorLineEnd">
-      <i c="117" l="1693222637714" />
+      <i c="162" l="1693306370458" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="11" l="1692970136070" />
     </e>
     <e n="EditorLineStart">
-      <i c="24" l="1692970195094" />
+      <i c="27" l="1693305397981" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="29" l="1693222626355" />
+      <i c="31" l="1693305202283" />
     </e>
     <e n="EditorNextWord">
-      <i c="38" l="1692970201917" />
+      <i c="41" l="1693305197403" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="24" l="1692969985694" />
+      <i c="29" l="1693306068016" />
     </e>
     <e n="EditorPaste">
-      <i c="74" l="1693222637089" />
+      <i c="93" l="1693306189401" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="48" l="1693220660586" />
+      <i c="75" l="1693305136497" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="43" l="1693220661889" />
+      <i c="51" l="1693306057826" />
     </e>
     <e n="EditorRight">
-      <i c="22" l="1692970201598" />
+      <i c="28" l="1693306203305" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="3" l="1692974081851" />
+      <i c="4" l="1693306068490" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1693304501077" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1692883731663" />
     </e>
     <e n="EditorTextEnd">
-      <i c="1" l="1692882132929" />
+      <i c="2" l="1693304645958" />
     </e>
     <e n="EditorTextStart">
       <i c="2" l="1692888451218" />
@@ -109,13 +112,13 @@
       <i c="1" l="1692888440100" />
     </e>
     <e n="EditorUp">
-      <i c="84" l="1692972317195" />
+      <i c="169" l="1693306058849" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="14" l="1692972265707" />
+      <i c="16" l="1693304481748" />
     </e>
     <e n="ExternalSystem.ProjectRefreshAction">
-      <i c="3" l="1692974091650" />
+      <i c="6" l="1693304849206" />
     </e>
     <e n="ExternalSystem.RefreshAllProjects">
       <i c="1" l="1692887617885" />
@@ -130,13 +133,16 @@
       <i c="1" l="1692892266648" />
     </e>
     <e n="GotoDeclaration">
-      <i c="26" l="1692974142493" />
+      <i c="31" l="1693305407941" />
     </e>
     <e n="InvalidateCaches">
       <i c="1" l="1692973938148" />
     </e>
+    <e n="NewDir">
+      <i c="1" l="1693305504182" />
+    </e>
     <e n="OpenFile">
-      <i c="25" l="1693234278223" />
+      <i c="26" l="1693306087585" />
     </e>
     <e n="OptimizeImports">
       <i c="18" l="1692974399898" />
@@ -154,7 +160,10 @@
       <i c="11" l="1692892734650" />
     </e>
     <e n="SaveAll">
-      <i c="81" l="1693222647433" />
+      <i c="96" l="1693306371552" />
+    </e>
+    <e n="Scala.NewClass">
+      <i c="2" l="1693306341414" />
     </e>
     <e n="Scala.RunConsole">
       <i c="2" l="1692892591825" />
@@ -163,7 +172,7 @@
       <i c="1" l="1692889070907" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="4" l="1692893241160" />
+      <i c="10" l="1693305139597" />
     </e>
     <e n="StepOver">
       <i c="1" l="1692881028945" />
@@ -172,7 +181,7 @@
       <i c="8" l="1692974280575" />
     </e>
     <e n="Switcher">
-      <i c="58" l="1692974398881" />
+      <i c="151" l="1693306223361" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="10" l="1692974148978" />
@@ -202,7 +211,7 @@
       <i c="1" l="1692889071221" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="5" l="1693226621629" />
+      <i c="15" l="1693304891410" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="13" l="1692892487719" />
