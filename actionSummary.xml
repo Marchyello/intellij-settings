@@ -4,10 +4,16 @@
       <i c="13" l="1692892313480" />
     </e>
     <e n="$Undo">
-      <i c="57" l="1693323867133" />
+      <i c="58" l="1693390006328" />
     </e>
     <e n="ActivateProblemsViewToolWindow">
-      <i c="8" l="1693313317172" />
+      <i c="10" l="1693390092241" />
+    </e>
+    <e n="ActivateTODOToolWindow">
+      <i c="1" l="1693389793661" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="1" l="1693389735935" />
     </e>
     <e n="ChangesView.Refresh">
       <i c="6" l="1692973519837" />
@@ -19,7 +25,7 @@
       <i c="2" l="1693308839325" />
     </e>
     <e n="CommentByLineComment">
-      <i c="6" l="1693327733651" />
+      <i c="7" l="1693390004701" />
     </e>
     <e n="Debug">
       <i c="7" l="1693312508196" />
@@ -133,10 +139,16 @@
       <i c="1" l="1692892266648" />
     </e>
     <e n="GotoDeclaration">
-      <i c="82" l="1693327919741" />
+      <i c="83" l="1693390841206" />
     </e>
     <e n="InvalidateCaches">
       <i c="1" l="1692973938148" />
+    </e>
+    <e n="NavBarLocationBottom">
+      <i c="1" l="1693390741581" />
+    </e>
+    <e n="NavBarLocationTop">
+      <i c="1" l="1693389874784" />
     </e>
     <e n="NewDir">
       <i c="1" l="1693305504182" />
@@ -146,6 +158,9 @@
     </e>
     <e n="OptimizeImports">
       <i c="24" l="1693327836296" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1693389673555" />
     </e>
     <e n="ReformatCode">
       <i c="34" l="1693327835890" />
@@ -169,10 +184,19 @@
       <i c="2" l="1692892591825" />
     </e>
     <e n="SelectIn">
-      <i c="1" l="1692889070907" />
+      <i c="2" l="1693390094920" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1693391237290" />
     </e>
     <e n="ShowIntentionActions">
       <i c="17" l="1693322967353" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1693389998095" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1693390008019" />
     </e>
     <e n="StepOver">
       <i c="1" l="1692881028945" />
@@ -208,7 +232,10 @@
       <i c="1" l="1692880499976" />
     </e>
     <e n="com.intellij.ide.actions.SelectInTargetActionGroup">
-      <i c="1" l="1692889071221" />
+      <i c="2" l="1693390097045" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1693391310869" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="1" l="1693306379807" />
@@ -218,6 +245,18 @@
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="15" l="1693322036992" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1693391240750" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="11" l="1693389829844" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1693390725139" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1693389842103" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="59" l="1692889818304" />

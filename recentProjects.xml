@@ -146,22 +146,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/cities2/username-authenticator">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – public.graphql [cities2-username-authenticator]" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
-              <option name="activationTimestamp" value="1693328475354" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-232.9559.62" />
-              <option name="buildTimestamp" value="1692766915387" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1693315402726" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/cities2/loyalty">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-loyalty – public.graphql [cities2-loyalty]" projectWorkspaceId="2Co1TQ9aKJOSjzThXEU3vxVjGot">
@@ -242,8 +226,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/cities2/username-authenticator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – InternalUsersClient.scala [cities2-username-authenticator]" opened="true" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
+              <option name="activationTimestamp" value="1693391312323" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766903527" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1990" y="27" width="2490" height="1413" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1693389548458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/cities2/merchants" />
+    <option name="lastOpenedProject" value="$USER_HOME$/cities2/username-authenticator" />
   </component>
 </application>

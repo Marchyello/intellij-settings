@@ -12,7 +12,7 @@
     <size key="find.popup.1920.0.2560.1440" width="601" height="486" />
   </component>
   <component name="WindowManager">
-    <frame x="2602" y="27" width="1033" height="736" extendedState="6" />
+    <frame x="1990" y="27" width="2490" height="1413" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="3302" y="384" width="424" height="491" key="FileChooserDialogImpl" timestamp="1692870292105">
@@ -23,9 +23,9 @@
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
     <state width="1025" height="104" key="ShowUsagesActions.dimensionServiceKey/1920.27.2560.1413/0.0.1920.1080" timestamp="1693327840191" />
-    <state x="1805" y="849" width="2490" height="1413" key="WELCOME_SCREEN" timestamp="1693389522083">
+    <state x="2668" y="872" width="800" height="669" key="WELCOME_SCREEN" timestamp="1693389536528">
       <screen x="1920" y="27" width="2560" height="1413" />
     </state>
-    <state x="1805" y="849" width="2490" height="1413" key="WELCOME_SCREEN/1920.27.2560.1413/0.0.1920.1080" timestamp="1693389522083" />
+    <state x="2668" y="872" width="800" height="669" key="WELCOME_SCREEN/1920.27.2560.1413/0.0.1920.1080" timestamp="1693389536528" />
   </component>
 </application>
