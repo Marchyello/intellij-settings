@@ -1,6 +1,9 @@
 <application>
   <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
     <option name="overrideLafFontsWasMigrated" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
@@ -8,14 +11,16 @@
     "CWM_LOGGING_VERSION": "1",
     "FindSplitterProportion": "0.33022714",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
-    "appcds.runOnSecondStart": "IC-232.9559.62-5156715c076c17a3236ebb4d78f4de882e3c4482ab4bc23bc0c6d34eba492314",
+    "appcds.runOnSecondStart": "IC-232.9559.62-e77e4b9fd2179abbc0d20642b74053042ca19ad4d694ebaa66c10050e4690802",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-232.9559.62",
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "experimental.ui.first.promotion.localdate": "2023-08-24",
+    "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "false",
+    "experimental.ui.switch": "true",
     "file.gist.reindex.count": "620",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "14.0",
@@ -27,7 +32,7 @@
     "last_opened_file_path": "/home/martins/cities2/merchants/build.sbt",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Solarized Dark (4lex4)",
+    "previousColorScheme": "_@user_Darcula",
     "registry.to.advanced.settings.migration.build": "IC-232.9559.62",
     "scala.last.updated": "1693304229110",
     "tasks.pass.word.conversion.enforced": "true"

@@ -146,22 +146,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/cities2/merchants">
-          <value>
-            <RecentProjectMetaInfo frameTitle="cities2-merchants – public.graphql [cities2-merchants]" opened="true" projectWorkspaceId="26PycsXV71BvdBGoOFcSeMx1KYU">
-              <option name="activationTimestamp" value="1693328485820" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-232.9559.62" />
-              <option name="buildTimestamp" value="1692766915387" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="435" y="174" width="1043" height="729" extendedState="6" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1693306105338" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/cities2/username-authenticator">
           <value>
             <RecentProjectMetaInfo frameTitle="cities2-username-authenticator – public.graphql [cities2-username-authenticator]" projectWorkspaceId="2BXAnGJUiDCom1JE3uN0Yt94TiE">
@@ -239,6 +223,22 @@
               <frame x="2500" y="233" width="1400" height="1000" extendedState="6" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1693324884430" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/cities2/merchants">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cities2-merchants – public.graphql [cities2-merchants]" projectWorkspaceId="26PycsXV71BvdBGoOFcSeMx1KYU">
+              <option name="activationTimestamp" value="1693389508249" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.9559.62" />
+              <option name="buildTimestamp" value="1692766904872" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2602" y="27" width="1033" height="736" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1693389471415" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
