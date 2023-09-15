@@ -9,6 +9,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "PluginConfigurable.selectionTab": "1",
     "bundled.plugins.list.saved.version": "IC-232.9921.47",
     "experimental.ui.first.promotion.localdate": "2023-09-15",
     "experimental.ui.first.switch": "true",
