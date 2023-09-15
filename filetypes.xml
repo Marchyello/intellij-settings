@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="userById" type="AUTO_DETECTED" />
       <mapping pattern="pre-entrypoint-init" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
