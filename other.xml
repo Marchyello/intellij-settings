@@ -12,12 +12,12 @@
     "bundled.plugins.list.saved.version": "IC-232.9921.47",
     "experimental.ui.first.promotion.localdate": "2023-09-15",
     "experimental.ui.first.switch": "true",
-    "experimental.ui.switch": "true",
+    "experimental.ui.used.version": "232.9921.47",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "14.0",
     "fontSizeToResetEditor": "14.0",
     "input.method.disabler.muted": "true",
-    "previousColorScheme": "_@user_Darcula",
+    "previousColorScheme": "_@user_Dark",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
