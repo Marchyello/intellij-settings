@@ -160,7 +160,7 @@
     <jdk version="2">
       <name value="11" />
       <type value="JavaSDK" />
-      <version value="11.0.24" />
+      <version value="11.0.25" />
       <homePath value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
       <roots>
         <annotationsPath>
